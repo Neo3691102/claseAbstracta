@@ -1,18 +1,12 @@
-## Getting Started
+# Clase abstracta
+En esta aplicación implementamos la clase abstracta Figura que tiene el comportamiento de calcular área e imprimir información el cual nos permite heredarle a las clases hijas estos métodos.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Herramientas
+1. Creación de clases
+2. Creación de atributos
+3. Creacion de métodos
+4. Instancia de una clase
+5. Variables y métodos abstractos
+6. Herrencia con extends
+7. @Override para poder usar un mé
+Suscribete a mi canal de Youtube: https://www.youtube.com/@Nescript-369todo heredado y así rehacerlo a las necesidades de la clase Circulo.
